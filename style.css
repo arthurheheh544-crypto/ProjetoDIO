@@ -147,7 +147,7 @@ font-weight: 400;
 
 
 #transform-world{
-  background-image: url(./assets/images/woman-code.png), linear-gradient(#000000, rgba(0, 33, 46, 0.979), rgb(0, 0, 0));;
+  background-image: url(woman-code.png), linear-gradient(#000000, rgba(0, 33, 46, 0.979), rgb(0, 0, 0));;
   background-position: center;
   height: 550px;
   background-attachment: fixed;
